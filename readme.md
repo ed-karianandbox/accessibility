@@ -3,8 +3,8 @@
 
 ## General Design
 
-- [https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/]
-- [https://axesslab.com/accessibility-according-to-pwd/]
+- Do's and Don't on designing for accessibility - https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
+- Accessibility according to People with Disabilities - https://axesslab.com/accessibility-according-to-pwd/
 
 
 ## Indesign 
