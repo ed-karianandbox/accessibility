@@ -16,6 +16,7 @@
 ### Epub
 
 - Tools to help assess ebook accessibility - http://epubsecrets.com/tools-to-assess-ebook-accessibility.php
+- Twenty things to consider when outputting an ebook - http://epubsecrets.com/ebooks-from-indesign-twenty-things-to-consider.php
 
 ## Powerpoint 
 
