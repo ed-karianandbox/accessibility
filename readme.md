@@ -20,5 +20,5 @@
 
 ### Subtitles
 
-- [http://bbc.github.io/subtitle-guidelines/](BBC Guidelines for subtitling)
-- [https://www.engagemedia.org/blog/best-practices-for-online-subtitling](Engage Media subtitling Best Practices)
+- BBC Guidelines for subtitling - http://bbc.github.io/subtitle-guidelines/
+- Engage Media subtitling Best Practices - https://www.engagemedia.org/blog/best-practices-for-online-subtitling
